@@ -15,8 +15,4 @@ Current state: database done; API and frontend still to do.
 - [PostgreSQL image (Docker Hub)](https://hub.docker.com/_/postgres)
 - [Compose file reference: services](https://docs.docker.com/reference/compose-file/services/)
 - [Compose file reference: workload spec (ports)](https://docs.docker.com/reference/compose-file/workload-spec/)
-- [PostgreSQL docs: numeric types](https://www.postgresql.org/docs/current/datatype-numeric.html)
-- [PostgreSQL docs: constraints and foreign keys](https://www.postgresql.org/docs/current/ddl-constraints.html)
-- [PostgreSQL docs: connection settings (port)](https://www.postgresql.org/docs/current/runtime-config-connection.html)
 - [Neon PostgreSQL Tutorial](https://neon.com/postgresql/tutorial)
-
