@@ -13,6 +13,8 @@ Current state: database done; API and frontend still to do.
 ## References
 
 - [PostgreSQL image (Docker Hub)](https://hub.docker.com/_/postgres)
-- [Compose file reference: services](https://docs.docker.com/reference/compose-file/services/)
-- [Compose file reference: workload spec (ports)](https://docs.docker.com/reference/compose-file/workload-spec/)
+- [Docker Compose documentation](https://docs.docker.com/compose/)
+- [PostgreSQL documentation](https://www.postgresql.org/docs/current/)
 - [Neon PostgreSQL Tutorial](https://neon.com/postgresql/tutorial)
+- [pgAdmin documentation](https://www.pgadmin.org/docs/pgadmin4/latest/)
+- [Git documentation](https://git-scm.com/docs)
